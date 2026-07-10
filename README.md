@@ -6,7 +6,7 @@ My goal isn't just to finish tutorials—it's to learn by building.
 
 ## Projects
 
-- [ ] 01. Guess the Number
+- [x] 01. Guess the Number ✅
 - [ ] 02. Rock Paper Scissors
 - [ ] 03. Quiz Game
 - [ ] 04. Password Strength Checker
