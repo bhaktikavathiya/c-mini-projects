@@ -26,11 +26,24 @@ int main(){
         printf("\nNot quite\n");
         printf("The correct number is higher than your guess.\n");
     } else {
-        printf("\nGood try!d\n");
+        printf("\nGood try!\n");
         printf("The correct number is lower than your guess.\n");
     }
 
-    printf("The correct number was %d\n", num);
+    while(guess != num){
+        printf("\nEnter your guess(1-100): \n");
+        scanf("%d", &guess);
 
+        if(guess < num){
+            printf("\nHigher!\n");
+        } else if(guess > num){
+            printf("\nLower!\n");
+        }
+    }
+
+    printf("\nCorrect! You won!");
+    
+    printf("The correct number was %d\n", num);
+    
     return 0;
 }

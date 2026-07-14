@@ -26,7 +26,7 @@ The computer generates a random number between 1 and 100. The player gets one ch
 
 ## Future Improvements
 
-- [ ] Allow multiple guesses
+- [x] Allow multiple guesses✅
 - [ ] Count the number of attempts
 - [ ] Add difficulty levels
 - [ ] Add a "Play Again" option
