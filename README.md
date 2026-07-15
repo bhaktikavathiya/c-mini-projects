@@ -9,7 +9,7 @@ My goal isn't just to finish tutorials—it's to learn by building.
 - [x] 01. Guess the Number ✅
 - [x] 02. Rock Paper Scissors ✅
 - [x] 03. Quiz Game ✅
-- [ ] 04. Password Strength Checker
+- [x] 04. Password Strength Checker ✅
 - [ ] 05. Calculator
 - [ ] 06. ATM Simulator
 - [ ] 07. Student Grade Manager
