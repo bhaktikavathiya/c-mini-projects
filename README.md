@@ -10,7 +10,7 @@ My goal isn't just to finish tutorials—it's to learn by building.
 - [x] 02. Rock Paper Scissors ✅
 - [x] 03. Quiz Game ✅
 - [x] 04. Password Strength Checker ✅
-- [ ] 05. Calculator
+- [x] 05. Calculator ✅
 - [ ] 06. ATM Simulator
 - [ ] 07. Student Grade Manager
 - [ ] 08. Expense Tracker
