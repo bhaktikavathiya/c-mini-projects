@@ -11,7 +11,7 @@ My goal isn't just to finish tutorials—it's to learn by building.
 - [x] 03. Quiz Game ✅
 - [x] 04. Password Strength Checker ✅
 - [x] 05. Calculator ✅
-- [ ] 06. ATM Simulator
+- [x] 06. ATM Simulator ✅
 - [ ] 07. Student Grade Manager
 - [ ] 08. Expense Tracker
 - [ ] 09. To-Do List
