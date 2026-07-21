@@ -12,7 +12,7 @@ My goal isn't just to finish tutorials—it's to learn by building.
 - [x] 04. Password Strength Checker ✅
 - [x] 05. Calculator ✅
 - [x] 06. ATM Simulator ✅
-- [ ] 07. Student Grade Manager
+- [x] 07. Student Grade Manager ✅
 - [ ] 08. Expense Tracker
 - [ ] 09. To-Do List
 - [ ] 10. Dice Roller
