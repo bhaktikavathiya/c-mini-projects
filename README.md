@@ -14,7 +14,7 @@ My goal isn't just to finish tutorials—it's to learn by building.
 - [x] 06. ATM Simulator ✅
 - [x] 07. Student Grade Manager ✅
 - [x] 08. Expense Tracker ✅
-- [ ] 09. To-Do List
+- [x] 09. To-Do List ✅
 - [ ] 10. Dice Roller
 - [ ] 11. Slot Machine
 - [ ] 12. Snake Water Gun
