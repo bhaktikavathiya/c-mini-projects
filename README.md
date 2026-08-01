@@ -15,7 +15,7 @@ My goal isn't just to finish tutorials—it's to learn by building.
 - [x] 07. Student Grade Manager ✅
 - [x] 08. Expense Tracker ✅
 - [x] 09. To-Do List ✅
-- [ ] 10. Dice Roller
+- [x] 10. Dice Roller ✅
 - [ ] 11. Slot Machine
 - [ ] 12. Snake Water Gun
 - [ ] 13. Hangman
