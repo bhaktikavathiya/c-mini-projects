@@ -18,7 +18,7 @@ My goal isn't just to finish tutorials—it's to learn by building.
 - [x] 10. Dice Roller ✅
 - [x] 11. Slot Machine ✅
 - [x] 12. Snake Water Gun ✅
-- [ ] 13. Hangman
+- [x] 13. Hangman ✅
 - [ ] 14. Lucky Draw
 - [ ] 15. Mood Recommender
 - [ ] 16. Text Adventure Game
