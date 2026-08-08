@@ -22,7 +22,7 @@ My goal isn't just to finish tutorials—it's to learn by building.
 - [x] 14. Lucky Draw ✅
 - [x] 15. Mood Recommender ✅
 - [x] 16. Text Adventure Game ✅
-- [ ] 17. Contact Book
+- [x] 17. Contact Book ✅
 - [ ] 18. Mini Banking System
 - [ ] 19. Library Management System
 - [ ] 20. Game Hub
