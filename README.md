@@ -24,5 +24,5 @@ My goal isn't just to finish tutorials—it's to learn by building.
 - [x] 16. Text Adventure Game ✅
 - [x] 17. Contact Book ✅
 - [x] 18. Mini Banking System ✅
-- [ ] 19. Library Management System
+- [x] 19. Library Management System ✅
 - [ ] 20. Game Hub
