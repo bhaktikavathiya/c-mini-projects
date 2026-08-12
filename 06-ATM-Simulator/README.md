@@ -27,8 +27,8 @@ ATM Simulator is a command-line program written in C that simulates the basic fu
 
 ## Future Improvements
 
-* [ ] Perform multiple transactions without restarting the program
-* [ ] Add PIN authentication
+* [x] Perform multiple transactions without restarting the program
+* [x] Add PIN authentication
 * [ ] Display transaction history
 * [ ] Transfer money between accounts
 * [ ] Generate a receipt after each transaction
